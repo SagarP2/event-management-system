@@ -1,8 +1,8 @@
-#🎟️ Event Management System
+# 🎟️ Event Management System
 
 The Event Management System is a PHP web application designed to streamline event planning, registration, and attendee management. It provides a seamless experience for organizers, attendees, and administrators.
 
-🚀 Features
+# 🚀 Features
 
 📅 Event Creation & Management – Organizers can create, update, and manage events.
 
@@ -16,7 +16,7 @@ The Event Management System is a PHP web application designed to streamline even
 
 🌐 Responsive UI – Intuitive interface designed for a smooth user experience.
 
-🛠️ Installation Guide
+# 🛠️ Installation Guide
 
 Prerequisites
 
@@ -31,7 +31,7 @@ Apache or XAMPP
 
 Git
 
-Steps to Set Up
+# Steps to Set Up
 
 1️⃣ Clone the Repository:
 
@@ -57,7 +57,7 @@ Open a browser and go to:
 
 http://localhost/event-management-system
 
-📌 About
+# 📌 About
 
 The Event Management System is a PHP-based application designed to efficiently manage event organization, ticketing, and attendee tracking.
 
